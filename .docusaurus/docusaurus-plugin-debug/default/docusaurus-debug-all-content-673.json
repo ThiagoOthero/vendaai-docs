@@ -1,0 +1,155 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\sidebars.js",
+          "contentPath": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "boletim-v1.0",
+              "id": "boletim-v1.0",
+              "title": "Boletim ZeroUm – v1.0",
+              "description": "📅 Publicado em: Janeiro de 2024",
+              "source": "@site/docs/boletim-v1.0.md",
+              "sourceDirName": ".",
+              "slug": "/boletim-v1.0",
+              "permalink": "/boletim-v1.0",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Boletim ZeroUm",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Boletim ZeroUm – v2.0",
+                "permalink": "/boletim-v2.0"
+              }
+            },
+            {
+              "unversionedId": "boletim-v2.0",
+              "id": "boletim-v2.0",
+              "title": "Boletim ZeroUm – v2.0",
+              "description": "📅 Publicado em: Junho de 2025",
+              "source": "@site/docs/boletim-v2.0.md",
+              "sourceDirName": ".",
+              "slug": "/boletim-v2.0",
+              "permalink": "/boletim-v2.0",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Boletim ZeroUm – v1.0",
+                "permalink": "/boletim-v1.0"
+              },
+              "next": {
+                "title": "Envie sua sugestão",
+                "permalink": "/sugestoes"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Boletim ZeroUm",
+              "description": "Bem-vindo à documentação oficial do Boletim ZeroUm.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "next": {
+                "title": "Boletim ZeroUm – v1.0",
+                "permalink": "/boletim-v1.0"
+              }
+            },
+            {
+              "unversionedId": "sugestoes",
+              "id": "sugestoes",
+              "title": "Envie sua sugestão",
+              "description": "Sua opinião é importante!",
+              "source": "@site/docs/sugestoes.md",
+              "sourceDirName": ".",
+              "slug": "/sugestoes",
+              "permalink": "/sugestoes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Boletim ZeroUm – v2.0",
+                "permalink": "/boletim-v2.0"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Boletins",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "boletim-v1.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "boletim-v2.0"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "sugestoes"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

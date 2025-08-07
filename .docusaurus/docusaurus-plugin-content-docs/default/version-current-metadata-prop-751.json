@@ -1,0 +1,72 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "link",
+        "label": "Boletim ZeroUm",
+        "href": "/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "Boletins",
+        "items": [
+          {
+            "type": "link",
+            "label": "Boletim ZeroUm – v1.0",
+            "href": "/boletim-v1.0",
+            "docId": "boletim-v1.0"
+          },
+          {
+            "type": "link",
+            "label": "Boletim ZeroUm – v2.0",
+            "href": "/boletim-v2.0",
+            "docId": "boletim-v2.0"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Envie sua sugestão",
+        "href": "/sugestoes",
+        "docId": "sugestoes"
+      }
+    ]
+  },
+  "docs": {
+    "boletim-v1.0": {
+      "id": "boletim-v1.0",
+      "title": "Boletim ZeroUm – v1.0",
+      "description": "📅 Publicado em: Janeiro de 2024",
+      "sidebar": "docs"
+    },
+    "boletim-v2.0": {
+      "id": "boletim-v2.0",
+      "title": "Boletim ZeroUm – v2.0",
+      "description": "📅 Publicado em: Junho de 2025",
+      "sidebar": "docs"
+    },
+    "index": {
+      "id": "index",
+      "title": "Boletim ZeroUm",
+      "description": "Bem-vindo à documentação oficial do Boletim ZeroUm.",
+      "sidebar": "docs"
+    },
+    "sugestoes": {
+      "id": "sugestoes",
+      "title": "Envie sua sugestão",
+      "description": "Sua opinião é importante!",
+      "sidebar": "docs"
+    }
+  }
+}
