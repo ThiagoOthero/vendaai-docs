@@ -5,11 +5,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
 
   // Configurações para desenvolvimento local
-  url: 'http://localhost:3000',
-  baseUrl: '/',
-
-  organizationName: 'vendaai',
-  projectName: 'vendaai-docs',
+  organizationName: 'ThiagoOthero', // seu usuário GitHub
+  projectName: 'vendaai-docs',      // nome do repositório
+  url: 'https://thiagoothero.github.io',
+  baseUrl: '/vendaai-docs/',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
