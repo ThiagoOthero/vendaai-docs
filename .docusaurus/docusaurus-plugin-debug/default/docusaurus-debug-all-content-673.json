@@ -9,13 +9,13 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/",
-          "tagsPath": "/tags",
+          "path": "/vendaai-docs/",
+          "tagsPath": "/vendaai-docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\sidebars.js",
-          "contentPath": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\docs",
-          "contentPathLocalized": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\vendaai-docs\\sidebars.js",
+          "contentPath": "C:\\vendaai-docs\\docs",
+          "contentPathLocalized": "C:\\vendaai-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "boletim-v1.0",
@@ -25,7 +25,7 @@
               "source": "@site/docs/boletim-v1.0.md",
               "sourceDirName": ".",
               "slug": "/boletim-v1.0",
-              "permalink": "/boletim-v1.0",
+              "permalink": "/vendaai-docs/boletim-v1.0",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -33,11 +33,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Boletim ZeroUm",
-                "permalink": "/"
+                "permalink": "/vendaai-docs/"
               },
               "next": {
                 "title": "Boletim ZeroUm – v2.0",
-                "permalink": "/boletim-v2.0"
+                "permalink": "/vendaai-docs/boletim-v2.0"
               }
             },
             {
@@ -48,7 +48,7 @@
               "source": "@site/docs/boletim-v2.0.md",
               "sourceDirName": ".",
               "slug": "/boletim-v2.0",
-              "permalink": "/boletim-v2.0",
+              "permalink": "/vendaai-docs/boletim-v2.0",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -56,11 +56,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Boletim ZeroUm – v1.0",
-                "permalink": "/boletim-v1.0"
+                "permalink": "/vendaai-docs/boletim-v1.0"
               },
               "next": {
                 "title": "Envie sua sugestão",
-                "permalink": "/sugestoes"
+                "permalink": "/vendaai-docs/sugestoes"
               }
             },
             {
@@ -71,7 +71,7 @@
               "source": "@site/docs/index.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/",
+              "permalink": "/vendaai-docs/",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -79,7 +79,7 @@
               "sidebar": "docs",
               "next": {
                 "title": "Boletim ZeroUm – v1.0",
-                "permalink": "/boletim-v1.0"
+                "permalink": "/vendaai-docs/boletim-v1.0"
               }
             },
             {
@@ -90,7 +90,7 @@
               "source": "@site/docs/sugestoes.md",
               "sourceDirName": ".",
               "slug": "/sugestoes",
-              "permalink": "/sugestoes",
+              "permalink": "/vendaai-docs/sugestoes",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -98,7 +98,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Boletim ZeroUm – v2.0",
-                "permalink": "/boletim-v2.0"
+                "permalink": "/vendaai-docs/boletim-v2.0"
               }
             }
           ],
@@ -141,7 +141,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/blog/tags",
+      "blogTagsListPath": "/vendaai-docs/blog/tags",
       "blogTagsPaginated": []
     }
   },

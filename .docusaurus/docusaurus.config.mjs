@@ -7,10 +7,10 @@ export default {
   "title": "Boletim VendaAI",
   "tagline": "Documentação oficial",
   "favicon": "img/favicon.ico",
-  "url": "http://localhost:3000",
-  "baseUrl": "/",
-  "organizationName": "vendaai",
+  "organizationName": "ThiagoOthero",
   "projectName": "vendaai-docs",
+  "url": "https://thiagoothero.github.io",
+  "baseUrl": "/vendaai-docs/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "presets": [
@@ -19,10 +19,10 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\sidebars.js"
+          "sidebarPath": "C:\\vendaai-docs\\sidebars.js"
         },
         "theme": {
-          "customCss": "C:\\Users\\Thiago OTT\\Documents\\vendaai-docs\\src\\css\\custom.css"
+          "customCss": "C:\\vendaai-docs\\src\\css\\custom.css"
         }
       }
     ]

@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Boletim ZeroUm",
-        "href": "/",
+        "href": "/vendaai-docs/",
         "docId": "index"
       },
       {
@@ -22,13 +22,13 @@
           {
             "type": "link",
             "label": "Boletim ZeroUm – v1.0",
-            "href": "/boletim-v1.0",
+            "href": "/vendaai-docs/boletim-v1.0",
             "docId": "boletim-v1.0"
           },
           {
             "type": "link",
             "label": "Boletim ZeroUm – v2.0",
-            "href": "/boletim-v2.0",
+            "href": "/vendaai-docs/boletim-v2.0",
             "docId": "boletim-v2.0"
           }
         ],
@@ -38,7 +38,7 @@
       {
         "type": "link",
         "label": "Envie sua sugestão",
-        "href": "/sugestoes",
+        "href": "/vendaai-docs/sugestoes",
         "docId": "sugestoes"
       }
     ]

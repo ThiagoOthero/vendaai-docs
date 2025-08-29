@@ -6,7 +6,7 @@
   "source": "@site/docs/boletim-v1.0.md",
   "sourceDirName": ".",
   "slug": "/boletim-v1.0",
-  "permalink": "/boletim-v1.0",
+  "permalink": "/vendaai-docs/boletim-v1.0",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Boletim ZeroUm",
-    "permalink": "/"
+    "permalink": "/vendaai-docs/"
   },
   "next": {
     "title": "Boletim ZeroUm – v2.0",
-    "permalink": "/boletim-v2.0"
+    "permalink": "/vendaai-docs/boletim-v2.0"
   }
 }

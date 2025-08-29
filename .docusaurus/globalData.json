@@ -1,33 +1,33 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/vendaai-docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/vendaai-docs/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "boletim-v1.0",
-              "path": "/boletim-v1.0",
+              "path": "/vendaai-docs/boletim-v1.0",
               "sidebar": "docs"
             },
             {
               "id": "boletim-v2.0",
-              "path": "/boletim-v2.0",
+              "path": "/vendaai-docs/boletim-v2.0",
               "sidebar": "docs"
             },
             {
               "id": "index",
-              "path": "/",
+              "path": "/vendaai-docs/",
               "sidebar": "docs"
             },
             {
               "id": "sugestoes",
-              "path": "/sugestoes",
+              "path": "/vendaai-docs/sugestoes",
               "sidebar": "docs"
             }
           ],
@@ -35,7 +35,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/",
+                "path": "/vendaai-docs/",
                 "label": "index"
               }
             }

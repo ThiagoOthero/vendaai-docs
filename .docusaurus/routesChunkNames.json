@@ -1,68 +1,68 @@
 {
-  "/__docusaurus/debug-b2d": {
+  "/vendaai-docs/__docusaurus/debug-146": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     }
   },
-  "/__docusaurus/debug/config-dba": {
+  "/vendaai-docs/__docusaurus/debug/config-2cc": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     }
   },
-  "/__docusaurus/debug/content-c95": {
+  "/vendaai-docs/__docusaurus/debug/content-e90": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---vendaai-docs-docusaurus-debug-content-246-e8a"
   },
-  "/__docusaurus/debug/globalData-930": {
+  "/vendaai-docs/__docusaurus/debug/globalData-b86": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     }
   },
-  "/__docusaurus/debug/metadata-495": {
+  "/vendaai-docs/__docusaurus/debug/metadata-4f0": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     }
   },
-  "/__docusaurus/debug/registry-882": {
+  "/vendaai-docs/__docusaurus/debug/registry-06c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     }
   },
-  "/__docusaurus/debug/routes-20f": {
+  "/vendaai-docs/__docusaurus/debug/routes-343": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-19-a-6b1"
+      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
     }
   },
-  "/-dbb": {
+  "/vendaai-docs/-813": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---abf-2d1"
+      "plugin": "plugin---vendaai-docs-928-d5d"
     },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "versionMetadata---vendaai-docs-935-b36"
   },
-  "/-b09": {
+  "/vendaai-docs/-1ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---c-37-d02"
+    "content": "content---vendaai-docs-c-37-d09"
   },
-  "/boletim-v1.0-c8b": {
+  "/vendaai-docs/boletim-v1.0-e0f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---boletim-v-1-0-c-30-ef2"
+    "content": "content---vendaai-docs-boletim-v-1-0-c-30-395"
   },
-  "/boletim-v2.0-271": {
+  "/vendaai-docs/boletim-v2.0-cbe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---boletim-v-2-0522-39e"
+    "content": "content---vendaai-docs-boletim-v-2-0522-1af"
   },
-  "/sugestoes-abc": {
+  "/vendaai-docs/sugestoes-368": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sugestoes-29-f-f46"
+    "content": "content---vendaai-docs-sugestoes-29-f-85b"
   }
 }
