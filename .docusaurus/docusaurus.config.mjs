@@ -9,8 +9,11 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "ThiagoOthero",
   "projectName": "vendaai-docs",
-  "url": "https://thiagoothero.github.io",
-  "baseUrl": "/vendaai-docs/",
+  "url": "https://docs.vendaai.com.br",
+  "baseUrl": "/",
+  "customFields": {
+    "customDomain": "docs.vendaai.com.br"
+  },
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "presets": [
@@ -29,48 +32,30 @@ export default {
   ],
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "light",
-      "respectPrefersColorScheme": true,
+      "defaultMode": "dark",
+      "respectPrefersColorScheme": false,
       "disableSwitch": false
     },
     "navbar": {
-      "title": "VendaAI",
+      "title": "",
       "logo": {
         "alt": "Logo VendaAI",
-        "src": "img/logo.png",
-        "srcDark": "img/logo.png",
-        "width": 32,
-        "height": 32
+        "src": "img/logo.svg",
+        "srcDark": "img/logo_branco.svg",
+        "width": 130
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "index",
-          "position": "left",
-          "label": "Início"
-        },
-        {
-          "to": "/boletim-v1.0",
-          "label": "Versão 1.0",
-          "position": "left"
-        },
-        {
-          "to": "/boletim-v2.0",
-          "label": "Versão 2.0",
-          "position": "left"
-        },
-        {
-          "to": "/sugestoes",
-          "label": "Sugestões",
-          "position": "left"
+          "href": "https://vendaai.com.br",
+          "label": "Site Oficial",
+          "position": "right"
         }
       ],
-      "style": "dark",
       "hideOnScroll": false
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 VendaAI, Inc.",
+      "copyright": "Copyright © 2025 ZeroUm Software House, Inc.",
       "links": []
     },
     "docs": {
@@ -241,7 +226,6 @@ export default {
   "staticDirectories": [
     "static"
   ],
-  "customFields": {},
   "plugins": [],
   "themes": [],
   "scripts": [],

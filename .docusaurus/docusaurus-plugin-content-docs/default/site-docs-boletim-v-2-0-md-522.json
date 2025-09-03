@@ -6,18 +6,9 @@
   "source": "@site/docs/boletim-v2.0.md",
   "sourceDirName": ".",
   "slug": "/boletim-v2.0",
-  "permalink": "/vendaai-docs/boletim-v2.0",
+  "permalink": "/boletim-v2.0",
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "docs",
-  "previous": {
-    "title": "Boletim ZeroUm – v1.0",
-    "permalink": "/vendaai-docs/boletim-v1.0"
-  },
-  "next": {
-    "title": "Envie sua sugestão",
-    "permalink": "/vendaai-docs/sugestoes"
-  }
+  "frontMatter": {}
 }

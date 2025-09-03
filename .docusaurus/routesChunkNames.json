@@ -1,68 +1,81 @@
 {
-  "/vendaai-docs/__docusaurus/debug-146": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/-3e4": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
-    }
-  },
-  "/vendaai-docs/__docusaurus/debug/config-2cc": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
-    }
-  },
-  "/vendaai-docs/__docusaurus/debug/content-e90": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
+      "plugin": "9282c3c9"
     },
-    "allContent": "allContent---vendaai-docs-docusaurus-debug-content-246-e8a"
+    "versionMetadata": "935f2afb"
   },
-  "/vendaai-docs/__docusaurus/debug/globalData-b86": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
-    }
+  "/-b09": {
+    "__comp": "17896441",
+    "content": "c377a04b"
   },
-  "/vendaai-docs/__docusaurus/debug/metadata-4f0": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
-    }
+  "/boletim-01-2025-3cb": {
+    "__comp": "17896441",
+    "content": "5ee94837"
   },
-  "/vendaai-docs/__docusaurus/debug/registry-06c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
-    }
+  "/boletim-06-2025-690": {
+    "__comp": "17896441",
+    "content": "e6c037ce"
   },
-  "/vendaai-docs/__docusaurus/debug/routes-343": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-docusaurus-debug-091-8db"
-    }
+  "/boletim/boletim-01-2025-a67": {
+    "__comp": "17896441",
+    "content": "038b6be3"
   },
-  "/vendaai-docs/-813": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---vendaai-docs-928-d5d"
-    },
-    "versionMetadata": "versionMetadata---vendaai-docs-935-b36"
+  "/boletim/boletim-06-2025-022": {
+    "__comp": "17896441",
+    "content": "ac0d16af"
   },
-  "/vendaai-docs/-1ae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vendaai-docs-c-37-d09"
+  "/fale-conosco/comercial-dff": {
+    "__comp": "17896441",
+    "content": "30097d63"
   },
-  "/vendaai-docs/boletim-v1.0-e0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vendaai-docs-boletim-v-1-0-c-30-395"
+  "/fale-conosco/sugestoes-28f": {
+    "__comp": "17896441",
+    "content": "50834f99"
   },
-  "/vendaai-docs/boletim-v2.0-cbe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vendaai-docs-boletim-v-2-0522-1af"
+  "/fale-conosco/suporte-duvida-uso-ee8": {
+    "__comp": "17896441",
+    "content": "f773b5d4"
   },
-  "/vendaai-docs/sugestoes-368": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vendaai-docs-sugestoes-29-f-85b"
+  "/faq/perguntas-respostas-0bb": {
+    "__comp": "17896441",
+    "content": "71a9a008"
+  },
+  "/identidade/identidade-vendaai-538": {
+    "__comp": "17896441",
+    "content": "01cdf6a8"
+  },
+  "/manual/acesso-ea5": {
+    "__comp": "17896441",
+    "content": "9f691600"
+  },
+  "/manual/crm-30e": {
+    "__comp": "17896441",
+    "content": "1bcae40e"
+  },
+  "/manual/em-desenvolvimento-4f4": {
+    "__comp": "17896441",
+    "content": "a9da4210"
+  },
+  "/manual/expedicao-061": {
+    "__comp": "17896441",
+    "content": "a34f722a"
+  },
+  "/manual/introducao-357": {
+    "__comp": "17896441",
+    "content": "48c4603c"
+  },
+  "/manual/pedidos-011": {
+    "__comp": "17896441",
+    "content": "168c55a6"
+  },
+  "/manual/telas-e82": {
+    "__comp": "17896441",
+    "content": "a365d88d"
+  },
+  "/sugestoes-5de": {
+    "__comp": "17896441",
+    "content": "29f7a769"
   }
 }

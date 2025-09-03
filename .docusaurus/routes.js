@@ -3,67 +3,106 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/vendaai-docs/__docusaurus/debug',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug', '146'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug/config', '2cc'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug/content', 'e90'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug/globalData', 'b86'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug/metadata', '4f0'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug/registry', '06c'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/vendaai-docs/__docusaurus/debug/routes', '343'),
-    exact: true
-  },
-  {
-    path: '/vendaai-docs/',
-    component: ComponentCreator('/vendaai-docs/', '813'),
+    path: '/',
+    component: ComponentCreator('/', '3e4'),
     routes: [
       {
-        path: '/vendaai-docs/',
-        component: ComponentCreator('/vendaai-docs/', '1ae'),
+        path: '/',
+        component: ComponentCreator('/', 'b09'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/vendaai-docs/boletim-v1.0',
-        component: ComponentCreator('/vendaai-docs/boletim-v1.0', 'e0f'),
+        path: '/boletim-01-2025',
+        component: ComponentCreator('/boletim-01-2025', '3cb'),
+        exact: true
+      },
+      {
+        path: '/boletim-06-2025',
+        component: ComponentCreator('/boletim-06-2025', '690'),
+        exact: true
+      },
+      {
+        path: '/boletim/boletim-01-2025',
+        component: ComponentCreator('/boletim/boletim-01-2025', 'a67'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/vendaai-docs/boletim-v2.0',
-        component: ComponentCreator('/vendaai-docs/boletim-v2.0', 'cbe'),
+        path: '/boletim/boletim-06-2025',
+        component: ComponentCreator('/boletim/boletim-06-2025', '022'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/vendaai-docs/sugestoes',
-        component: ComponentCreator('/vendaai-docs/sugestoes', '368'),
+        path: '/fale-conosco/comercial',
+        component: ComponentCreator('/fale-conosco/comercial', 'dff'),
         exact: true,
         sidebar: "docs"
+      },
+      {
+        path: '/fale-conosco/sugestoes',
+        component: ComponentCreator('/fale-conosco/sugestoes', '28f'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/fale-conosco/suporte-duvida-uso',
+        component: ComponentCreator('/fale-conosco/suporte-duvida-uso', 'ee8'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/faq/perguntas-respostas',
+        component: ComponentCreator('/faq/perguntas-respostas', '0bb'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/identidade/identidade-vendaai',
+        component: ComponentCreator('/identidade/identidade-vendaai', '538'),
+        exact: true
+      },
+      {
+        path: '/manual/acesso',
+        component: ComponentCreator('/manual/acesso', 'ea5'),
+        exact: true
+      },
+      {
+        path: '/manual/crm',
+        component: ComponentCreator('/manual/crm', '30e'),
+        exact: true
+      },
+      {
+        path: '/manual/em-desenvolvimento',
+        component: ComponentCreator('/manual/em-desenvolvimento', '4f4'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/manual/expedicao',
+        component: ComponentCreator('/manual/expedicao', '061'),
+        exact: true
+      },
+      {
+        path: '/manual/introducao',
+        component: ComponentCreator('/manual/introducao', '357'),
+        exact: true
+      },
+      {
+        path: '/manual/pedidos',
+        component: ComponentCreator('/manual/pedidos', '011'),
+        exact: true
+      },
+      {
+        path: '/manual/telas',
+        component: ComponentCreator('/manual/telas', 'e82'),
+        exact: true
+      },
+      {
+        path: '/sugestoes',
+        component: ComponentCreator('/sugestoes', '5de'),
+        exact: true
       }
     ]
   },

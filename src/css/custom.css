@@ -22,6 +22,8 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+
+
 /* Títulos */
 h1, h2, h3, h4, h5, h6 {
   color: var(--title-color) !important;
@@ -37,10 +39,16 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--navbar-hover) !important;
 }
 
-/* Ícone do Toggle (Dark/Light) */
-.navbar .toggleButton_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module svg {
-  color: var(--toggle-icon-color) !important;
+/* Mantém o ícone visível no light theme */
+.theme-toggle-button {
+  color: black; /* ícone escuro no light theme */
 }
+
+/* Opcional: melhora a aparência ao passar o mouse */
+.theme-toggle-button:hover {
+  opacity: 0.8;
+}
+
 
 /* Logo simples */
 .navbar__logo img {

@@ -4,21 +4,24 @@ module.exports = {
   tagline: 'Documentação oficial',
   favicon: 'img/favicon.ico',
 
-  // Configurações para desenvolvimento local
-  organizationName: 'ThiagoOthero', // seu usuário GitHub
-  projectName: 'vendaai-docs',      // nome do repositório
-  url: 'https://thiagoothero.github.io',
-  baseUrl: '/vendaai-docs/',
+  organizationName: 'ThiagoOthero',
+  projectName: 'vendaai-docs',
+  url: 'https://docs.vendaai.com.br',
+  baseUrl: '/',
+
+  customFields: {
+    customDomain: 'docs.vendaai.com.br',
+  },
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-
+ 
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
-          routeBasePath: '/',
+          routeBasePath: '/', // deixa docs na raiz
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
@@ -30,46 +33,37 @@ module.exports = {
 
   themeConfig: {
     colorMode: {
-      defaultMode: 'light',
-      respectPrefersColorScheme: true,
+      defaultMode: 'dark',
+      respectPrefersColorScheme: false,
+      disableSwitch: false,
     },
     navbar: {
-      title: 'VendaAI',
+      title: '',
       logo: {
         alt: 'Logo VendaAI',
-        src: 'img/logo.png',
-        srcDark: 'img/logo.png', // Caso queira uma versão diferente para dark mode
-        width: 32,
-        height: 32,
+        src: 'img/logo.svg',
+        srcDark: 'img/logo_branco.svg',
+        width: 130,
+      //height: 39,
+      // height: undefined, // deixa automático
       },
       items: [
+        //{
+        //  type: 'doc',
+        //  docId: 'index',
+        //  position: 'left',
+        //  label: 'Página Inicial',
+        //},
         {
-          type: 'doc',
-          docId: 'index',
-          position: 'left',
-          label: 'Início',
-        },
-        {
-          to: '/boletim-v1.0',
-          label: 'Versão 1.0',
-          position: 'left',
-        },
-        {
-          to: '/boletim-v2.0',
-          label: 'Versão 2.0',
-          position: 'left',
-        },
-        {
-          to: '/sugestoes',
-          label: 'Sugestões',
-          position: 'left',
+          href: 'https://vendaai.com.br',
+          label: 'Site Oficial',
+          position: 'right',
         },
       ],
-      style: 'dark', // Cor da navbar (dark/primary)
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} VendaAI, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ZeroUm Software House, Inc.`,
     },
   },
 };
